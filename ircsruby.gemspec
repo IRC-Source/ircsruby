@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "ircsruby"
   spec.version       = Ircsruby::VERSION
   spec.authors       = ["IotaSpencer"]
-  spec.email         = ["iota@electrocode.net"]
+  spec.email         = ["ken@electrocode.net"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
