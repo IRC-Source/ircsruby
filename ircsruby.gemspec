@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Library to access the IRC-Source.com API}
   spec.homepage      = "https://github.com/IRC-Source/ircsruby"
-  spec.license       = "MIT"
+  spec.license       = "GPL3"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
