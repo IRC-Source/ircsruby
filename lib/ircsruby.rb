@@ -7,6 +7,7 @@ class Ircsruby
   URL = %q{https://beta.irc-source.com/api.php?command=}
   def self.printurl
     puts URL
+  end
     
 end
 
