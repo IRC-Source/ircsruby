@@ -1,5 +1,5 @@
-require "ircsruby/version"
-require "json"
+#require "ircsruby/version"
+#require "json"
 
 
 class Ircsruby
